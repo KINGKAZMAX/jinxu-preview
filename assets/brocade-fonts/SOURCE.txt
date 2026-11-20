@@ -1,0 +1,18 @@
+JinXu Song / JinXuSong-Regular
+
+This Regular WOFF2 subset is derived from Adobe Source Han Serif CN
+2.003R (SubsetOTF/CN/SourceHanSerifCN-Regular.otf). It covers the
+checked-in exhibition catalogue and interface, plus all printable ASCII.
+The subset has its own family and PostScript names and preserves the
+upstream copyright and SIL Open Font License 1.1 notices. Basic
+kerning, localized forms and vertical alternates are retained.
+
+Release
+https://github.com/adobe-fonts/source-han-serif/releases/tag/2.003R
+
+Original font and license
+https://github.com/adobe-fonts/source-han-serif/blob/2.003R/SubsetOTF/CN/SourceHanSerifCN-Regular.otf
+https://github.com/adobe-fonts/source-han-serif/blob/2.003R/LICENSE.txt
+
+Regenerate after changing the catalogue or interface
+uv run scripts/build-brocade-font.py SourceHanSerifCN-Regular.otf LICENSE.txt
