@@ -1,0 +1,26 @@
+{
+  "title": "仿明大红八宝云龙纹地织金妆花团龙袍",
+  "institution": "南京江南丝绸文化博物馆藏 · 20 世纪复制件",
+  "description": "馆方记载，此袍依明万历皇帝墓出土原件复制。两袖宽展，绛红地织八宝云龙纹，团龙分布于双肩、胸背和衣身两侧。",
+  "technique": "南京云锦织金妆花。绛红地上的纹样与金线团龙随织造形成，转动光源可比较缎地和织金线的反光。",
+  "reference": "https://artlab.nju.edu.cn/heritage/public/4/74f522-f121e4-53bc95.detail.jpg",
+  "referenceAlt": "馆藏复制件整袍展开图，绛红地上可见肩部、中部与下部的织金团龙",
+  "referenceCredit": "非物质文化遗产虚拟展示项目组《赤》 · 南京江南丝绸文化博物馆藏",
+  "referenceUsage": "",
+  "sourceUrl": "https://artlab.nju.edu.cn/heritage/brocade/red/",
+  "sourceLabel": "ZHI艺《赤》",
+  "sourceImage": "https://artlab.nju.edu.cn/heritage/public/4/74f522-f121e4-53bc95.detail.jpg",
+  "rightsUrl": "https://artlab.nju.edu.cn/heritage/copyright/",
+  "museumUrl": "http://www.jnsilkculturemuseum.com/col.jsp?id=115#module535",
+  "museumLabel": "南京江南丝绸文化博物馆 · 馆藏清册",
+  "museumPhotoUrl": "https://22936317.s21i.faiusr.com/2/ABUIABACGAAgj6Gc_gUo9oeakgYw0ww4uAg.jpg",
+  "catalogObjectId": "brocade-red-7",
+  "catalogDetailId": "brocade-red-7-detail-1",
+  "modelNote": "Tripo 根据锦序为本案例制作的服饰设定图生成三维模型。衣褶、背面和织金反光为推定表现，实物纹样可在馆藏图中放大核对。",
+  "hotspots": [
+    { "label": "肩部与宽袖", "x": 0.26, "height": 0.90, "zoom": 2.65 },
+    { "label": "胸背团龙", "x": 0.50, "height": 0.72, "zoom": 2.95 },
+    { "label": "下身织金团龙", "x": 0.40, "height": 0.34, "zoom": 2.95 },
+    { "label": "袍身下缘", "x": 0.58, "height": 0.10, "zoom": 2.55 }
+  ]
+}
