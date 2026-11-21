@@ -1,0 +1,298 @@
+[
+  {
+    "id": "inheritor-zhu-feng",
+    "kind": "inheritor",
+    "title": "朱枫",
+    "description": "第一批国家级代表性传承人。1954 年参加南京云锦抢救保护，长期研究纹样和配色，并写作云纹构成与云锦色彩的专论。",
+    "url": "https://www.ihchina.cn/ccr_detail/2985.html",
+    "sourceLabel": "中国非物质文化遗产数字博物馆",
+    "relatedObjectIds": [
+      "brocade-yjkoujue-22",
+      "brocade-animaltism-1"
+    ]
+  },
+  {
+    "id": "inheritor-zhou-shuangxi",
+    "kind": "inheritor",
+    "title": "周双喜",
+    "description": "第三批国家级代表性传承人。自 1983 年起承担古代丝绸文物的研究与复制，参与织金孔雀羽妆花纱龙袍料复制和绞纱、绞罗工艺的恢复。",
+    "url": "https://www.ihchina.cn/ccr_detail/3055.html",
+    "sourceLabel": "中国非物质文化遗产数字博物馆",
+    "relatedObjectIds": [
+      "brocade-animaltism-1",
+      "brocade-weaving-2"
+    ]
+  },
+  {
+    "id": "inheritor-jin-wen",
+    "kind": "inheritor",
+    "title": "金文",
+    "description": "第三批国家级代表性传承人。向云锦老艺人学习整套织造工艺，长期从事古代织锦研究、复制与新作设计，曾在南京博物院从事传统工艺研究。",
+    "url": "https://www.ihchina.cn/ccr_detail/3056.html",
+    "sourceLabel": "中国非物质文化遗产数字博物馆",
+    "relatedObjectIds": [
+      "brocade-weaving-2",
+      "brocade-yjusage-3"
+    ]
+  },
+  {
+    "id": "inheritor-guo-jun",
+    "kind": "inheritor",
+    "title": "郭俊",
+    "description": "第五批国家级代表性传承人。1973 年进入原南京云锦研究所，先后学习花本和装饰绘画，将两者用于手工妆花的创作实践。",
+    "url": "https://www.ihchina.cn/ccr_detail/3308.html",
+    "sourceLabel": "中国非物质文化遗产数字博物馆",
+    "relatedObjectIds": [
+      "brocade-weaving-1",
+      "brocade-animaltism-1"
+    ]
+  },
+  {
+    "id": "process-threads",
+    "kind": "process",
+    "title": "备丝与配纬",
+    "description": "按纹样选择地组织和显花所需的丝线。需要金色或羽光的纹部，可以另用金线、孔雀羽线作装饰纬。观察红地方龙补时，可从孔雀羽与织金在不同部位的光泽读起。",
+    "url": "https://ich.unesco.org/en/RL/craftsmanship-of-nanjing-yunjin-brocade-00200",
+    "sourceLabel": "UNESCO · 南京云锦织造技艺",
+    "relatedObjectIds": [
+      "brocade-animaltism-1"
+    ]
+  },
+  {
+    "id": "process-pattern-plan",
+    "kind": "process",
+    "title": "纹样设计与挑花结本",
+    "description": "确定纹样和用丝后，工匠按画稿挑制花本，使纸上的纹样能通过织机逐次提经显现。龙补体现从主体到边饰的构图安排。",
+    "url": "https://www.ihchina.cn/luntan_details/8159.html",
+    "sourceLabel": "中国非物质文化遗产数字博物馆",
+    "relatedObjectIds": [
+      "brocade-animaltism-1",
+      "brocade-weaving-1"
+    ]
+  },
+  {
+    "id": "process-loom-setup",
+    "kind": "process",
+    "title": "装造与上机",
+    "description": "上机时布置经丝，并使花本与提经系统相连。开织以后，上层拽花工的动作才能传到下层织工面前的经丝。",
+    "url": "https://www.ihchina.cn/yunjinzhizao.html",
+    "sourceLabel": "中国非物质文化遗产数字博物馆",
+    "relatedObjectIds": [
+      "brocade-weaving-1"
+    ],
+    "image": "./assets/brocade-catalog/research/loom-kongfu-wang.jpg",
+    "imageCredit": "KongFu Wang · CC BY-SA 2.0",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Nanjing_Brocade_Loom.jpg",
+    "imageLicense": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  {
+    "id": "process-drawloom",
+    "kind": "process",
+    "title": "拽花与开口",
+    "description": "花楼上的拽花工依次提起花本耳子线，牵动相关经丝。下面的织工配合脚踏与引纬，两人共同完成纹部开口。",
+    "url": "https://artlab.nju.edu.cn/heritage/brocade/weaving/",
+    "sourceLabel": "南京大学 ZHI艺",
+    "objectId": "brocade-weaving-1",
+    "image": "./assets/brocade-catalog/d_ed6046-ae6933-c4a245.list_cover.jpg",
+    "imageCredit": "项目组",
+    "imageCreditFull": "南京大学非物质文化遗产虚拟展示平台项目组 · 拽花工序图",
+    "imageSource": "https://artlab.nju.edu.cn/heritage/public/d/ed6046-ae6933-c4a245.detail.jpg",
+    "imageLicense": "原站署名引用"
+  },
+  {
+    "id": "process-shuttle",
+    "kind": "process",
+    "title": "手工梭引纬",
+    "description": "织工用手织梭引入地纬，也用这种办法送入需要贯穿幅宽的纹纬。梭口由经丝分开形成，纬线从其中通过。",
+    "url": "https://artlab.nju.edu.cn/heritage/brocade/weaving/",
+    "sourceLabel": "南京大学 ZHI艺",
+    "objectId": "brocade-weaving-2",
+    "detailId": "brocade-weaving-2-detail-1"
+  },
+  {
+    "id": "process-local-brocading",
+    "kind": "process",
+    "title": "过管挖花",
+    "description": "织工在花纹需要的位置送入局部彩纬，以小管分段妆彩。局部换色使妆花可在同一纬向中组合不同颜色。",
+    "url": "https://artlab.nju.edu.cn/heritage/brocade/weaving/",
+    "sourceLabel": "南京大学 ZHI艺",
+    "objectId": "brocade-weaving-2",
+    "detailId": "brocade-weaving-2-detail-2",
+    "relatedObjectIds": [
+      "brocade-animaltism-1",
+      "brocade-yjkoujue-6"
+    ]
+  },
+  {
+    "id": "process-beat-weft",
+    "kind": "process",
+    "title": "踏马竹与打纬",
+    "description": "引纬时踩住踏马竹，使筘框停在后位。引纬完成后松脚，再拉动筘框把纬线推向织口，控制织物的纬密。",
+    "url": "https://artlab.nju.edu.cn/heritage/brocade/weaving/",
+    "sourceLabel": "南京大学 ZHI艺",
+    "objectId": "brocade-weaving-3",
+    "detailId": "brocade-weaving-3-detail-2"
+  },
+  {
+    "id": "process-feed-and-takeup",
+    "kind": "process",
+    "title": "送经与卷取",
+    "description": "织成的锦面逐渐占据工作空间。织工间歇放出经丝、卷起已经织成的锦面，并重新调节经丝张力。",
+    "url": "https://artlab.nju.edu.cn/heritage/brocade/weaving/",
+    "sourceLabel": "南京大学 ZHI艺",
+    "objectId": "brocade-weaving-4"
+  },
+  {
+    "id": "process-tailoring",
+    "kind": "process",
+    "title": "从袍料到成衣",
+    "description": "有的袍料织成匹料后再按式裁剪。采用织成方式时，织工在上机前便要规划前后身等部位的花纹，以便裁缝对纹接合。",
+    "url": "https://artlab.nju.edu.cn/heritage/brocade/weaving/",
+    "sourceLabel": "南京大学 ZHI艺",
+    "objectId": "brocade-weaving-6",
+    "relatedObjectIds": [
+      "brocade-animaltism-5",
+      "brocade-yjusage-1"
+    ]
+  },
+  {
+    "id": "collection-forbidden-city-red-robe",
+    "kind": "collection",
+    "title": "红色金龙妆花缎皮朝袍",
+    "description": "故宫博物院藏，清雍正，故00044877。将袍上正龙、云纹和海水江崖，与展厅龙补上同题纹样对读，观察图案随服饰部位如何展开。",
+    "url": "https://www.dpm.org.cn/collection/embroider/230271.html",
+    "sourceLabel": "故宫博物院 · 藏品著录",
+    "relatedObjectIds": [
+      "brocade-animaltism-1",
+      "brocade-animaltism-1-detail-1",
+      "brocade-animaltism-1-detail-2"
+    ]
+  },
+  {
+    "id": "collection-forbidden-city-twelve-symbols",
+    "kind": "collection",
+    "title": "明黄色缎绣彩云黄龙夹龙袍",
+    "description": "故宫博物院藏，清乾隆，故00041984。十二章、云龙与海水江崖以刺绣表现，可与妆花织物比较纹样布局和技法。",
+    "url": "https://www.dpm.org.cn/collection/embroider/231330.html",
+    "sourceLabel": "故宫博物院 · 藏品著录",
+    "objectId": "brocade-animaltism-5"
+  },
+  {
+    "id": "collection-cma-phoenixes-dragons",
+    "catalogDataUrl": "https://openaccess-api.clevelandart.org/api/artworks/1995.73",
+    "kind": "collection",
+    "title": "龙凤团窠织物",
+    "description": "克利夫兰艺术博物馆藏，中国元代，1995.73。馆方著录为丝与金线织成的 lampas，可比较龙凤构图、团窠边界及金线表现。",
+    "url": "https://www.clevelandart.org/art/1995.73",
+    "sourceLabel": "克利夫兰艺术博物馆 · 藏品著录",
+    "relatedObjectIds": [
+      "brocade-animaltism-1",
+      "brocade-animaltism-4"
+    ],
+    "image": "./assets/brocade-catalog/research/cma-1995-73.jpg",
+    "imageCredit": "克利夫兰艺术博物馆 · CC0",
+    "imageCreditFull": "克利夫兰艺术博物馆 · Edward L. Whittemore Fund · 1995.73",
+    "imageSource": "https://openaccess-cdn.clevelandart.org/1995.73/1995.73_print.jpg",
+    "imageLicense": "CC0 1.0"
+  },
+  {
+    "id": "collection-met-dragon-medallions",
+    "catalogDataUrl": "https://collectionapi.metmuseum.org/public/collection/v1/objects/68532",
+    "kind": "collection",
+    "title": "团龙纹缂丝片",
+    "description": "大都会艺术博物馆藏，清乾隆时期，30.75.36。馆方著录为丝与金属线缂丝，可从团龙布局比较不同织造技法下的构图。",
+    "url": "https://www.metmuseum.org/art/collection/search/68532",
+    "sourceLabel": "大都会艺术博物馆 · 藏品著录",
+    "relatedObjectIds": [
+      "brocade-animaltism-1",
+      "brocade-animaltism-1-detail-1"
+    ],
+    "image": "./assets/brocade-catalog/research/met-30-75-36.jpg",
+    "imageCredit": "大都会艺术博物馆 · 公有领域",
+    "imageCreditFull": "大都会艺术博物馆 · Bequest of William Christian Paul, 1929 · 30.75.36",
+    "imageSource": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/68532/2522553/main-image",
+    "imageLicense": "The Met Open Access · Public Domain"
+  },
+  {
+    "id": "collection-nanjing-yunjin-tianyi",
+    "kind": "collection",
+    "title": "江宁织造博物馆 · 云锦天衣",
+    "description": "从本地常设展追溯南京云锦的织物门类和服饰用途，再与本站按品级展示的官补图例对读。",
+    "url": "https://www.njmuseumadmin.com/Exhibit/show/id/6",
+    "sourceLabel": "南京市博物总馆 · 官方展览",
+    "relatedObjectIds": [
+      "brocade-shishi-1",
+      "brocade-shishi-6",
+      "brocade-yjusage-2"
+    ]
+  },
+  {
+    "id": "collection-nanjing-wanli-robe-material",
+    "kind": "collection",
+    "title": "万历帝红四合如意云纹纱袍料（复制件）",
+    "description": "南京云锦博物馆展陈的袍料复制件。南京云锦研究所依据明定陵出土袍料开展复织，可与本展的仿明方补对读，比较纱地织金和缎地妆花。",
+    "url": "https://www.ihchina.cn/project_details/10925/",
+    "sourceLabel": "中国非遗网 · 复制记录",
+    "relatedObjectIds": [
+      "brocade-animaltism-1",
+      "brocade-weaving-6"
+    ],
+    "imageSource": "https://www.ihchina.cn/openbase/uploadfiles/20090101213000251.jpg",
+    "imageCreditFull": "中国非物质文化遗产网《南京云锦申遗成功 要让普通百姓穿得起送得起》，文章署来源为中国江苏网"
+  },
+  {
+    "id": "collection-nanjing-eight-treasures",
+    "kind": "collection",
+    "title": "一则八宝团龙妆花缎（复原件）",
+    "description": "南京江南丝绸文化博物馆据南京市档案馆保存的中兴源丝织厂档案完成复原。馆长耿奇在访谈中讲述选择这件织物的原因，原总工俞征智则逐一说明纹样中的八宝。",
+    "url": "https://m.thepaper.cn/newsDetail_forward_27059788",
+    "sourceLabel": "南京江南丝绸文化博物馆馆长访谈",
+    "relatedObjectIds": [
+      "brocade-animaltism-1",
+      "brocade-secularworld-3"
+    ],
+    "imageSource": "https://dag.nanjing.gov.cn/dawh/jldazz/202403/P020240312368637593242.pdf",
+    "imageCreditFull": "金财财、何珊珊《非物质文化遗产活化传承的南京实践》，《金陵档案》第 87 页。图为《一则八宝团龙妆花缎》意匠稿局部。"
+  },
+  {
+    "id": "reference-unesco",
+    "kind": "reference",
+    "title": "联合国教科文组织项目档案",
+    "description": "查看 2009 年列入人类非物质文化遗产代表作名录的项目档案、申报材料与织机双人协作视频。",
+    "url": "https://ich.unesco.org/en/RL/craftsmanship-of-nanjing-yunjin-brocade-00200",
+    "sourceLabel": "UNESCO · 名录编号 00200",
+    "relatedObjectIds": [
+      "brocade-weaving-1",
+      "brocade-weaving-2"
+    ]
+  },
+  {
+    "id": "reference-nanjing-archives",
+    "kind": "reference",
+    "title": "南京云锦及丝织业档案",
+    "description": "从南京市档案馆的图典了解中兴源丝织厂档案、江宁织造博物馆实物，以及江南丝绸文化博物馆的云锦数字化成果。",
+    "url": "https://dag.nanjing.gov.cn/gzdt/202303/t20230324_3871620.html",
+    "sourceLabel": "南京市档案馆 · 编研项目",
+    "relatedObjectIds": [
+      "brocade-animaltism-4",
+      "brocade-shishi-1"
+    ]
+  },
+  {
+    "id": "reference-liu-oral-history",
+    "kind": "reference",
+    "title": "刘钧正口述访谈",
+    "description": "南京市级代表性传承人讲述云锦织造、复制与传艺。结合访谈理解织工判断工艺和仿制差异时关注的材料、规格与图案。",
+    "url": "https://artlab.nju.edu.cn/heritage/brocade/yjheritage/",
+    "sourceLabel": "南京大学 ZHI艺 · 口述记录",
+    "objectId": "brocade-yjheritage-1"
+  },
+  {
+    "id": "reference-wikipedia",
+    "kind": "reference",
+    "title": "云锦 · 维基百科",
+    "description": "从百科条目浏览织造用途、历史和术语，并循其引文继续查找相关文献和馆藏。",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%91%E9%94%A6",
+    "sourceLabel": "维基百科 · 延伸阅读"
+  }
+]
