@@ -16,3 +16,13 @@ https://github.com/adobe-fonts/source-han-serif/blob/2.003R/LICENSE.txt
 
 Regenerate after changing the catalogue or interface
 uv run scripts/build-brocade-font.py SourceHanSerifCN-Regular.otf LICENSE.txt
+
+JinXu Kangxi menu and catalogue subsets
+Upstream font: OFL Kangxi Regular v0.100, fangquinlan/kangxi-1716
+Release: https://github.com/fangquinlan/kangxi-1716/releases/tag/v0.100
+Font source SHA-256: 5047d6aa932c3c65a7708de1b3e8516ad6f03612f1f4837bf2969ae0dd18d56b
+License: SIL Open Font License 1.1, see KANGXI-OFL.txt.
+The menu and index WOFF2 subsets contain the Chinese characters used in
+the exhibition headings and directory. Simplified characters missing in
+the source are mapped to the corresponding traditional or historical form.
+The underlying searchable names are unchanged.
