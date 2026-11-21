@@ -259,8 +259,7 @@ h1, p, figure { margin: 0; }
   .report-intro h1 { margin-block: 7px 10px; }
   .report-credit { margin-top: 9px; }
   .start-button { margin-top: 14px; }
-  .button-text { display: none; }
-  .player-bottom button { min-width: 44px; justify-content: center; }
+  .player-bottom button { min-width: 44px; padding-inline: 7px; font-size: 12px; justify-content: center; }
   .player-bar { gap: 6px; }
   .player-position { gap: 6px; }
   .report-player #slide-link { font-size: 11px; padding-inline: 6px; }

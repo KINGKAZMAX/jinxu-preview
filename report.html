@@ -32,7 +32,7 @@
         <p class="report-summary">项目整理了 12 条候选规则，用 6 项简化检测比较 180 张生成图。纹样参数、配色与出处存入设计包，供下一位设计者接续编辑。</p>
         <p class="report-credit">蔡智鑫 · 浙江科技大学</p>
         <button class="start-button" type="button" id="report-start" disabled>
-          开始放映 <span aria-hidden="true">↗</span>
+          开始放映
         </button>
         <noscript><p class="report-summary">请启用 JavaScript 后放映汇报。</p></noscript>
       </div>
@@ -49,17 +49,17 @@
       </div>
     </div>
     <div class="player-bar player-top">
-      <button id="report-exit" type="button">← 退出放映</button>
-      <button id="report-fullscreen" type="button" hidden>全屏 ⛶</button>
+      <button id="report-exit" type="button">退出放映</button>
+      <button id="report-fullscreen" type="button" hidden>全屏</button>
     </div>
     <div class="player-bar player-bottom">
-      <button id="slide-prev" type="button" aria-label="上一页"><span aria-hidden="true">←</span><span class="button-text">上一页</span></button>
+      <button id="slide-prev" type="button" aria-label="上一页">上一页</button>
       <div class="player-position">
         <label class="sr-only" for="slide-select">跳转到幻灯片</label>
         <select id="slide-select"></select>
         <a id="slide-link" hidden></a>
       </div>
-      <button id="slide-next" type="button" aria-label="下一页"><span class="button-text">下一页</span><span aria-hidden="true">→</span></button>
+      <button id="slide-next" type="button" aria-label="下一页">下一页</button>
     </div>
     <p class="sr-only" id="slide-status" aria-live="polite" aria-atomic="true"></p>
   </section>
