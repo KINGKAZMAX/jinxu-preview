@@ -16,7 +16,7 @@
   "museumPhotoUrl": "https://22936317.s21i.faiusr.com/2/ABUIABACGAAgj6Gc_gUo9oeakgYw0ww4uAg.jpg",
   "catalogObjectId": "brocade-red-7",
   "catalogDetailId": "brocade-red-7-detail-1",
-  "modelNote": "Tripo 根据锦序为本案例制作的服饰设定图生成三维模型。衣褶、背面和织金反光为推定表现，实物纹样可在馆藏图中放大核对。",
+  "modelNote": "三维袍服由 Tripo 根据锦序制作的服饰设定图生成。正面纹样直接取自这张 1536 × 1024 设定原图，侧面、背面和织金反光为推定表现。切换「馆藏原图」可核对实物细节。",
   "hotspots": [
     { "label": "肩部与宽袖", "x": 0.26, "height": 0.90, "zoom": 2.65 },
     { "label": "胸背团龙", "x": 0.50, "height": 0.72, "zoom": 2.95 },
