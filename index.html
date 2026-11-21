@@ -9,7 +9,7 @@
   <link rel="icon" type="image/svg+xml" href="./assets/showcase/mark.svg">
   <noscript><style>#exhibit, .skip { display: none }</style></noscript>
   <meta name="catalog-url" content="./assets/brocade-catalog/catalog.json?v=871c83ad4521">
-  <link rel="stylesheet" href="./assets/brocade-app/brocade-A4YIK5SZ.css">
+  <link rel="stylesheet" href="./assets/brocade-app/brocade-YUMIIJJD.css">
 </head>
 <body>
   <a class="skip" href="#stage-main">跳至展览内容</a>
@@ -19,7 +19,7 @@
       <nav class="view-nav" id="view-nav" aria-label="展厅浏览方式">
         <a id="space-link" href="#/">螺旋</a><i class="dot"></i><a id="index-link" href="#/index">目录</a>
       </nav>
-      <button id="menu-open" class="light-button menu-open" type="button" aria-controls="menu-layer" aria-expanded="false">菜单 <i class="dot"></i></button>
+      <div class="top-actions"><a id="lab-entry" class="lab-entry" href="#/lab">实验室 ↗</a><button id="menu-open" class="light-button menu-open" type="button" aria-controls="menu-layer" aria-expanded="false">菜单 <i class="dot"></i></button></div>
     </header>
     <main id="stage-main" tabindex="-1">
       <p id="loading" role="status">正在载入云锦图录…</p>
@@ -40,15 +40,13 @@
       </section>
       <section id="page-screen" class="page-screen" hidden></section>
     </main>
-    <aside id="soundtrack" class="soundtrack" aria-label="展厅配乐">
-      <button id="start-track" type="button" aria-label="播放《青花瓷》钢琴版">▷ 青花瓷</button>
-    </aside>
+    <audio id="soundtrack" preload="none" loop hidden src="https://music.163.com/song/media/outer/url?id=3368267047.mp3"></audio>
     <button id="sound-switch" class="sound-switch" type="button" aria-label="关闭展厅声音" aria-pressed="true"></button>
   </div>
   <dialog id="menu-layer" class="menu-layer" aria-labelledby="menu-title">
     <header><span id="menu-title">锦序 <span lang="en">JinXu</span></span><button type="button" id="menu-close" class="light-button">关闭 <span aria-hidden="true">×</span></button></header>
     <nav aria-label="展览菜单">
-      <a href="#/">云锦展厅</a><a href="#/catalog">云锦资料库</a><a href="#/research">传承与馆藏</a><a href="#/colors/722231">色与纹</a><button id="menu-picker" type="button">选择颜色</button>
+      <a href="#/">云锦展厅</a><a href="#/catalog">云锦资料库</a><a href="#/research">传承与馆藏</a><a href="#/colors/722231">色与纹</a><a id="menu-lab-entry" href="#/lab">纹样与织造实验室</a><button id="menu-picker" type="button">选择颜色</button>
     </nav>
     <footer><a href="#/sources">研究与来源 ↗</a><span>南京云锦纹样研究</span></footer>
   </dialog>
@@ -59,6 +57,6 @@
     <div class="picker-swatches"></div><footer><button type="button" class="light-button family-apply">漫游全部色系 →</button></footer>
   </dialog>
   <noscript>启用 JavaScript 即可进入锦序展厅。也可<a href="./assets/brocade-catalog/catalog.json">查阅云锦图录数据</a>。</noscript>
-  <script type="module" src="./assets/brocade-app/brocade-7VGI577G.js"></script>
+  <script type="module" src="./assets/brocade-app/brocade-7ZT6UU4R.js"></script>
 </body>
 </html>
